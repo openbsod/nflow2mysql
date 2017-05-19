@@ -12,4 +12,10 @@ start collecting with
 
 Check collector output:
 
+![alt text](https://github.com/openbsod/nflow2mysql/blob/master/images/portlistener.png)
 
+Check MySQL:
+
+![alt text](https://github.com/openbsod/nflow2mysql/blob/master/images/raw_flow.png)
+
+That`s all. Quick and dirty.. 
