@@ -4,7 +4,7 @@ Pushing Netflow v9 data to MySQL
 
 Place files whatever you want. Create DB with
 ```
-mysql -uroot -p < dbinstall.sql
+mysql -uroot -p < install_db.sql
 ```
 start collecting with
 ```
