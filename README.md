@@ -21,4 +21,4 @@ Check MySQL:
 You can find additional info here https://www.iana.org/assignments/ipfix/ipfix.xml
 and also at https://tools.ietf.org/html/rfc7012
 
-That`s all. Quick and dirty.. 
+That`s all. Quick and dirty proof of concept.. 
